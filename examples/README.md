@@ -48,3 +48,6 @@ This pattern is ideal for:
 - **Resource Utilization**: Better CPU and I/O utilization
 - **Scalability**: Easy to add more workers
 - **Backpressure Handling**: Buffered channels prevent blocking
+
+# Load Balancer
+![Load Balancer](./load_balancer.png)

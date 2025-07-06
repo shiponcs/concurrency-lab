@@ -56,9 +56,9 @@ func main() {
 	// examples.PipelineWithErrorHandling()
 	// fmt.Println()
 
-	fmt.Println("Hello, World!")
-	examples.FanOutFanIn()
-	fmt.Println("ends")
+	// Run Load Balancer Demo
+	examples.LoadBalancerDemo()
+	fmt.Println()
 
 	fmt.Println("All examples completed!")
 }
